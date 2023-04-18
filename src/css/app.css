@@ -1,0 +1,55 @@
+/* app global css */
+.link-fuchsia {
+  color: #f30168;
+}
+
+.logo-image {
+  width: 10rem;
+}
+
+.black-link {
+  color: black;
+}
+
+.btn-fullwidth {
+  width: 100%;
+  height: 70px;
+}
+
+.card {
+  border: 1px solid #e7e4e4;
+  box-shadow: none;
+  height: 62rem;
+  width: 35rem;
+}
+
+.register-container {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+.font-bold {
+  font-weight: bold;
+  text-align: left;
+}
+
+.btn-fuchsia {
+  background-color: #f30168;
+  font-family: Arial;
+  color: #ffffff;
+  box-shadow: none;
+  font-weight: 100;
+  width: 14rem;
+  height: 3rem;
+}
+
+.btn-fuchsia:hover {
+  background-color: #c41655;
+}
+
+.price-fuchsia {
+  color: #f30168;
+  font-size: 2rem;
+  font-weight: bold;
+}
